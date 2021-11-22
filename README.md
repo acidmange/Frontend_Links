@@ -5,6 +5,7 @@
 
 ##### Touch Typing
 https://www.typingclub.com/
+
 https://www.typingstudy.com/
 #### Optimization
 https://optimization.guide/
@@ -26,7 +27,9 @@ https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh
 https://trunkbaseddevelopment.com
 #### Learn JS
 https://learn.javascript.ru
+
 https://jskatas.org/
+
 https://www.codewars.com/
 #### V8 Engine
 https://v8.dev
@@ -42,6 +45,7 @@ https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-javascript
 #### EcmaScript Compatibility
 https://caniuse.com/es6
+
 https://kangax.github.io/compat-table/es6/
 #### ExplainShell Commands
 https://explainshell.com
