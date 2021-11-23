@@ -35,6 +35,8 @@ https://www.codewars.com/
 https://v8.dev
 #### Ecma Script
 https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+#### Lodash Library
+https://lodash.com/docs/
 
 
 ## Cheat Sheets
