@@ -67,6 +67,8 @@ https://www.conventionalcommits.org/ru/v1.0.0/
 https://ru.wikipedia.org/wiki/Регулярные_выражения
 #### How Prettier Works
 https://prettier.io/playground/
+#### Eslint Rules
+https://eslint.org/docs/rules/
 
 
 ## Other Useful
