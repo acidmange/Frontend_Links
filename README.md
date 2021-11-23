@@ -77,3 +77,5 @@ https://ru.hexlet.io/pages/recommended-books
 https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/
 #### JS Date Library
 https://date-fns.org
+#### Blog Framework 
+https://hexo.io
