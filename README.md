@@ -47,6 +47,8 @@ https://www.digitalocean.com/community/tutorials/how-to-write-comments-in-javasc
 https://caniuse.com/es6
 
 https://kangax.github.io/compat-table/es6/
+#### All NodeJS Packages
+https://www.npmjs.com
 #### ExplainShell Commands
 https://explainshell.com
 #### Proper NodeJS Package
