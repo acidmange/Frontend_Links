@@ -65,6 +65,8 @@ https://habr.com/en/post/150950/
 https://www.conventionalcommits.org/ru/v1.0.0/
 #### Regular Expressions
 https://ru.wikipedia.org/wiki/Регулярные_выражения
+#### How Prettier Works
+https://prettier.io/playground/
 
 
 ## Other Useful
