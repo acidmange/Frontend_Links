@@ -69,6 +69,8 @@ https://ru.wikipedia.org/wiki/Регулярные_выражения
 https://prettier.io/playground/
 #### Eslint Rules
 https://eslint.org/docs/rules/
+#### Airbnb JS
+https://github.com/airbnb/javascript
 
 
 ## Other Useful
