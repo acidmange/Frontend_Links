@@ -37,6 +37,8 @@ https://v8.dev
 https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 #### Lodash Library
 https://lodash.com/docs/
+#### MakeFile Guide
+https://guides.hexlet.io/makefile-as-task-runner/
 
 
 ## Cheat Sheets
