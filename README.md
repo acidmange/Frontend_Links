@@ -39,6 +39,8 @@ https://www.ecma-international.org/publications-and-standards/standards/ecma-262
 https://lodash.com/docs/
 #### MakeFile Guide
 https://guides.hexlet.io/makefile-as-task-runner/
+#### About Versions
+https://semver.org/lang/ru/
 
 
 ## Cheat Sheets
