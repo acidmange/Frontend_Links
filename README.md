@@ -85,6 +85,8 @@ https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-cas
 
 ## Other Useful
 
+#### Ru Hackaton
+https://www.хакатоны.рф
 #### Test Tasks 
 https://github.com/Hexlet/ru-test-assignments
 #### Good Books
