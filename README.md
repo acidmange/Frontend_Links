@@ -97,3 +97,5 @@ https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/
 https://date-fns.org
 #### Blog Framework 
 https://hexo.io
+#### How to learn SICP
+https://guides.hexlet.io/how-to-learn-sicp/
