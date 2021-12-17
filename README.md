@@ -93,6 +93,8 @@ https://github.com/Hexlet/ru-test-assignments
 https://ru.hexlet.io/pages/recommended-books
 #### Open Source Projects
 https://guides.hexlet.io/how-to-be-a-helpful-for-the-hexlet-community/
+
+https://ru.hexlet.io/blog/posts/participate-in-open-source
 #### JS Date Library
 https://date-fns.org
 #### Blog Framework 
