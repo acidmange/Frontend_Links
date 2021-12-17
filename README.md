@@ -101,3 +101,7 @@ https://date-fns.org
 https://hexo.io
 #### How to learn SICP
 https://guides.hexlet.io/how-to-learn-sicp/
+#### Ask a Question
+https://ru.stackoverflow.com
+
+https://qna.habr.com
