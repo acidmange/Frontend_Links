@@ -11,6 +11,10 @@ https://www.typingstudy.com/
 https://optimization.guide/
 #### Git Book
 https://git-scm.com/book/ru/v2
+#### GitHub Actions
+https://itnext.io/getting-started-with-github-actions-fe94167dbc6d
+
+https://docs.github.com/en/actions/learn-github-actions
 #### Bash Guide
 https://www.opennet.ru/docs/RUS/bash_scripting_guide/
 #### Bash Reference Manual
