@@ -59,6 +59,8 @@ https://caniuse.com/es6
 https://kangax.github.io/compat-table/es6/
 #### All NodeJS Packages
 https://www.npmjs.com
+#### NPM CheatSheet
+https://habr.com/en/post/133363/
 #### ExplainShell Commands
 https://explainshell.com
 #### Proper NodeJS Package
