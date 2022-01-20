@@ -12,7 +12,7 @@ https://optimization.guide/
 #### Git Book
 https://git-scm.com/book/ru/v2
 #### How To Design Programs (Book)
-https://htdp.org/2003-09-26/Book/curriculum.html
+https://htdp.org/2021-11-15/Book/part_prologue.html
 #### GitHub Actions
 https://itnext.io/getting-started-with-github-actions-fe94167dbc6d
 
