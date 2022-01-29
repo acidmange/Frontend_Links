@@ -91,6 +91,8 @@ https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-cas
 
 ## Other Useful
 
+#### Open Source Marathon
+https://hacktoberfest.digitalocean.com/
 #### Ru Hackaton
 https://www.хакатоны.рф
 #### Test Tasks 
