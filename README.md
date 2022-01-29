@@ -93,6 +93,8 @@ https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-cas
 
 ## Other Useful
 
+#### Battle with other programmers
+https://codebattle.hexlet.io/?roistat_visit=194532
 #### Open Source Marathon
 https://hacktoberfest.digitalocean.com/
 #### Ru Hackaton
