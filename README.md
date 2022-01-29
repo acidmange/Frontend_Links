@@ -7,6 +7,8 @@
 https://www.typingclub.com/
 
 https://www.typingstudy.com/
+#### Interactive Courses
+https://github.com/Hexlet/interactive-courses?roistat_visit=194532#git
 #### Optimization
 https://optimization.guide/
 #### FrontEnd Roadmap
