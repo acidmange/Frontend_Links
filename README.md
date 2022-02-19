@@ -111,6 +111,8 @@ https://ru.hexlet.io/blog/posts/participate-in-open-source
 https://date-fns.org
 #### Blog Framework 
 https://hexo.io
+#### Node Testing Library
+https://www.chaijs.com
 #### How to learn SICP
 https://guides.hexlet.io/how-to-learn-sicp/
 #### Ask a Question
