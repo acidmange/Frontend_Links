@@ -11,6 +11,8 @@ https://www.typingstudy.com/
 https://github.com/Hexlet/interactive-courses?roistat_visit=194532#git
 #### Optimization
 https://optimization.guide/
+#### Jest Docs
+https://jestjs.io/docs/getting-started
 #### FrontEnd Roadmap
 https://roadmap.sh/frontend
 #### Git Book
