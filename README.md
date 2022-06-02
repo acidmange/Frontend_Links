@@ -91,6 +91,8 @@ https://eslint.org/docs/rules/
 https://github.com/airbnb/javascript
 #### Naming Cases
 https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-case-pascalcase-snake-case-и-все-case-ecda10463fa8
+#### css Color-Names
+https://htmlcolorcodes.com/color-names/
 
 
 ## Other Useful
