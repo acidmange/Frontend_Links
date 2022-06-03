@@ -3,7 +3,9 @@
 
 ## Learn
 
-##### Touch Typing
+#### Emmet Course
+https://epixx.github.io/emmet/
+#### Touch Typing
 https://www.typingclub.com/
 
 https://www.typingstudy.com/
@@ -91,7 +93,7 @@ https://eslint.org/docs/rules/
 https://github.com/airbnb/javascript
 #### Naming Cases
 https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-case-pascalcase-snake-case-и-все-case-ecda10463fa8
-#### css Color-Names
+#### CSS Color-Names
 https://htmlcolorcodes.com/color-names/
 
 
