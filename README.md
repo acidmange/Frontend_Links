@@ -95,6 +95,8 @@ https://github.com/airbnb/javascript
 https://medium.com/@vladimirmorulus/справка-по-case-camelcase-kebab-case-pascalcase-snake-case-и-все-case-ecda10463fa8
 #### CSS Color-Names
 https://htmlcolorcodes.com/color-names/
+#### HTML Color-Codes
+https://htmlcolorcodes.com/
 
 
 ## Other Useful
