@@ -59,6 +59,8 @@ https://semver.org/lang/ru/
 
 ## Cheat Sheets
 
+#### CSS Rules Order
+https://9elements.com/css-rule-order/
 #### Git
 https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 #### How to write Comments JS
