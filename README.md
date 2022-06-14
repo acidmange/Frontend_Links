@@ -69,6 +69,8 @@ https://caniuse.com/es6
 https://kangax.github.io/compat-table/es6/
 #### All NodeJS Packages
 https://www.npmjs.com
+#### CSS Multi-Column Layout
+https://www.w3.org/TR/css-multicol-1/
 #### NPM CheatSheet
 https://habr.com/en/post/133363/
 #### ExplainShell Commands
@@ -85,7 +87,7 @@ https://habr.com/en/post/150950/
 https://www.conventionalcommits.org/ru/v1.0.0/
 #### Regular Expressions
 https://ru.wikipedia.org/wiki/Регулярные_выражения
-#### How Prettier Works
+#### How Prettier Workshttps://www.w3.org/TR/css-multicol-1/
 https://prettier.io/playground/
 #### Eslint Rules
 https://eslint.org/docs/rules/
