@@ -59,6 +59,8 @@ https://semver.org/lang/ru/
 
 ## Cheat Sheets
 
+#### CSS Can I Use?
+https://caniuse.com/css-resize
 #### CSS Rules Order
 https://9elements.com/css-rule-order/
 #### Git
