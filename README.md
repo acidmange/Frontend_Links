@@ -85,6 +85,9 @@ https://explainshell.com
 https://github.com/hexlet-boilerplates/nodejs-package
 #### GitIgnore 
 https://github.com/github/gitignore
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring
+https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+https://git-scm.com/docs/gitignore
 #### SSH CheatSheet
 https://habr.com/en/post/122445/
 #### HowTo CLI apps
