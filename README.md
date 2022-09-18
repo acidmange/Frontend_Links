@@ -3,6 +3,12 @@
 
 ## Learn
 
+#### CSS Guideline
+https://cssguidelin.es/#introduction
+#### Bem Documentation
+https://ru.bem.info/
+
+https://getbem.com/
 #### Emmet Course
 https://epixx.github.io/emmet/
 #### Touch Typing
