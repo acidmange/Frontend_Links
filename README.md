@@ -9,6 +9,8 @@ https://cssguidelin.es/#introduction
 https://ru.bem.info/
 
 https://getbem.com/
+
+https://github.com/bem-site/bem-method/blob/bem-info-data/articles/articles.ru.md
 #### Emmet Course
 https://epixx.github.io/emmet/
 #### Touch Typing
