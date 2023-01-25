@@ -71,6 +71,9 @@ https://semver.org/lang/ru/
 
 ## Cheat Sheets
 
+
+#### Proper Directory Structure
+http://practicalseries.com/1001-webdevelopment/04-02-starting.html
 #### SASS to CSS
 https://www.sassmeister.com/
 #### Most Used Commands Linux
