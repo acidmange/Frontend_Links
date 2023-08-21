@@ -136,6 +136,8 @@ https://htmlcolorcodes.com/
 
 ## Other Useful
 
+#### JS Errors
+https://habr.com/ru/articles/249525/
 #### CSS Useful Articles
 https://css-tricks.com/archives/
 #### Battle with other programmers
