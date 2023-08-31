@@ -3,6 +3,13 @@
 
 ## Learn
 
+#### Programming and Learning sources
+https://www.khanacademy.org/computing
+https://www.codecademy.com
+https://www.codewars.com
+https://leetcode.com
+https://jskatas.org
+
 #### Gulp
 https://gulpjs.com/docs/
 #### PUG
