@@ -86,7 +86,8 @@ https://semver.org/lang/ru/
 
 ## Cheat Sheets
 
-
+#### Big O Cheat Sheet
+https://www.bigocheatsheet.com
 #### Proper Directory Structure
 http://practicalseries.com/1001-webdevelopment/04-02-starting.html
 #### SASS to CSS
